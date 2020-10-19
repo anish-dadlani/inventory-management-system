@@ -1,0 +1,13 @@
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\bin\Release\Medical Store.exe
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\bin\Release\Medical Store.pdb
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical_Store.Form1.resources
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical_Store.Properties.Resources.resources
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical_Store.Sample.resources
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical Store.csproj.GenerateResource.Cache
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical Store.exe
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical Store.pdb
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical_Store.login.resources
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical_Store.settings.resources
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical_Store.HomeScreen.resources
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical_Store.Sample2.resources
+C:\Users\WinsOft System Lrk\AppData\Local\Temporary Projects\Medical Store\obj\x86\Release\Medical_Store.Users.resources

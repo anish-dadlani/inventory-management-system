@@ -1,0 +1,354 @@
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\bin\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\bin\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical_Store.Form1.resources
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical_Store.HomeScreen.resources
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical_Store.login.resources
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical_Store.Sample.resources
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical_Store.Sample2.resources
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical_Store.settings.resources
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical_Store.Users.resources
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical Store1.csproj.GenerateResource.Cache
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\documents\visual studio 2010\Projects\Medical Store1\Medical Store1\obj\x86\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\bin\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\bin\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Form1.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.HomeScreen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.login.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.settings.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Users.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.GenerateResource.Cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.categories.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.products.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csprojResolveAssemblyReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Purchase_Invoice.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.stocks.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.supplier.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoiceDetails.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sales.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.productPricing.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\bin\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\bin\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csprojResolveAssemblyReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.categories.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Form1.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.HomeScreen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.login.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.productPricing.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.products.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Purchase_Invoice.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoiceDetails.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sales.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.settings.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.stocks.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.supplier.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Users.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.GenerateResource.Cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.ViewSalesInvoice.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SaleReturn.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Splash_Screen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.ResetPassword.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sendCode.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csprojResolveAssemblyReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.categories.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Form1.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.HomeScreen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.login.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.productPricing.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.products.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Purchase_Invoice.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoiceDetails.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.ResetPassword.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SaleReturn.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sales.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sendCode.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.settings.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Splash_Screen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.stocks.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.supplier.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Users.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.ViewSalesInvoice.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.GenerateResource.Cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\bin\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\bin\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Categories_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Products_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Users_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Suppliers_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoiceDetails_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 - Copy - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoice_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\bin\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\bin\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csprojResolveAssemblyReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Categories_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Form1.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.HomeScreen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.login.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.productPricing.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Products_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoiceDetails_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoice_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.ResetPassword.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SaleReturn.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sales.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sendCode.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.settings.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Splash_Screen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.stocks.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Suppliers_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Users_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.ViewSalesInvoice.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.GenerateResource.Cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SalesDetails.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.LendBarrowMoney.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Chart.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Medical Store1 Main - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.ResolveComReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical Store1.csproj.ResolveComReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\bin\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\bin\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical Store1.csprojResolveAssemblyReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.Categories_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.Chart.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.Form1.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.HomeScreen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.LendBarrowMoney.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.login.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.productPricing.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.Products_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoiceDetails_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoice_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.ResetPassword.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.SaleReturn.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.sales.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.SalesDetails.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.Sample.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.Sample2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.sendCode.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.settings.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.stocks.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.Suppliers_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.Users_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical_Store.ViewSalesInvoice.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store\Medical Store1\obj\x86\Debug\Medical Store1.csproj.GenerateResource.Cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Medical Store1.exe.config
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.ResolveComReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Categories_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Chart.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Form1.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.HomeScreen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.LendBarrowMoney.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.login.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.productPricing.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Products_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoiceDetails_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoice_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.ResetPassword.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SaleReturn.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sales.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SalesDetails.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.salesReport.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sendCode.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.settings.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.stocks.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Suppliers_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Users_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.GenerateResource.Cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2010\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\credentials.json
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Medical Store1.exe.config
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Core.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\log4net.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.IO.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Runtime.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Zlib.Portable.dll
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Core.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Core.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\log4net.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.IO.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Runtime.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Threading.Tasks.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Zlib.Portable.xml
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.ResolveComReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Back_up_Restore.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Categories_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Chart.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Clients.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Credit_Debit_Balance.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Form1.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.HomeScreen.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.LendBarrowMoney.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.login.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.productPricing.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Products_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoiceDetails_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoice_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.ResetPassword.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Retail_Sales.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SaleReturn.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sales.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SalesDetails.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.salesReport.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sendCode.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.settings.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.stocks.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Suppliers_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Users_2.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.GenerateResource.Cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.exe
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.pdb
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csprojResolveAssemblyReference.cache
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Daily_Expenditure.resources
+C:\Users\WinsOft System Lrk\Documents\Visual Studio 2013\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Expenditure_Ledger.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Medical Store1.exe.config
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.ResolveComReference.cache
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.exe
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.pdb
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\credentials.json
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Medical Store1.exe
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Medical Store1.pdb
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Core.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Drive.v3.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\log4net.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Newtonsoft.Json.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.IO.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.Extensions.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.Primitives.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Runtime.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Threading.Tasks.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Zlib.Portable.dll
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\BouncyCastle.Crypto.pdb
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.pdb
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.pdb
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Core.pdb
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Core.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.Drive.v3.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Google.Apis.PlatformServices.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\log4net.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Newtonsoft.Json.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.IO.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.Extensions.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.Primitives.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Runtime.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\System.Threading.Tasks.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\bin\Debug\Zlib.Portable.xml
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csprojResolveAssemblyReference.cache
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Back_up_Restore.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Categories_2.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Chart.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Clients.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Credit_Debit_Balance.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Daily_Expenditure.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Expenditure_Ledger.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Form1.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.HomeScreen.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.LendBarrowMoney.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.login.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.productPricing.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Products_2.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoiceDetails_2.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.PurchaseInvoice_2.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.ResetPassword.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Retail_Sales.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SaleReturn.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sales.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.SalesDetails.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.salesReport.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Sample2.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.sendCode.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.settings.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.stocks.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Suppliers_2.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical_Store.Users_2.resources
+D:\Anish\C#\Projects\Medical Store - Copy\Medical Store1\obj\x86\Debug\Medical Store1.csproj.GenerateResource.Cache
